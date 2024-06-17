@@ -27,3 +27,5 @@ document.body.appendChild(nav);
 document.body.appendChild(header);
 document.body.appendChild(content);
 document.body.appendChild(footer);
+
+console.log('hello world!');
