@@ -16,7 +16,7 @@ h1.textContent = 'To Do Lists';
 header.appendChild(h1);
 
 const content = document.createElement('div');
-contentContainer.setAttribute('id', 'contentConainer');
+content.setAttribute('id', 'contentConainer');
 
 const footer = document.createElement('footer');
 const p = document.createElement('p');
